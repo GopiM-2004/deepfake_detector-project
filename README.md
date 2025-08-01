@@ -60,6 +60,3 @@ To purchase the **complete working project**, please contact:
 
 📧 Email: `gopi914807@gmail.com`  
 📱 WhatsApp: `+91-9148073990`  
-
-# deepfake-detector-project
-# deepfake-detector-project
